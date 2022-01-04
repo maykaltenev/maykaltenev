@@ -1,16 +1,27 @@
-### Hi there 👋
+###### Hello there, I am Maykal Tenev :call_me_hand:
 
-<!--
-**maykaltenev/maykaltenev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### I'm a Jurist, Chef, Barista, and Developer!
 
-Here are some ideas to get you started:
+- :rocket: I am doing a Web Development Course at [Digital Career Institute][website]
+- :bulb: I am currently learning JavaScript, HTML, CSS on [Visual Studio Code][vs code]
+- 🧘 I am doing [Yoga with Adriane][yoga]
+- :book: I am reading on [Blinkist][books]
+- :notes: I [flow with][spotify]
+- 🤩 Fun fact: Always ready for new adventures and exciting collaborations!
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Connect with me:
+
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+<br />
+
+[website]: https://digitalcareerinstitute.org/
+[vs code]: https://code.visualstudio.com/
+[yoga]: https://www.youtube.com/c/yogawithadriene
+[books]: https://www.blinkist.com/en/nc/library/
+[spotify]: https://open.spotify.com/playlist/0UYCCtsgDxqqAPseyS4QdL
+[instagram]: https://www.instagram.com/michaeltenev/
+[linkedin]: https://www.linkedin.com/in/maykal-tenev-a8729586/
+[gmail]: https://mail.google.com/mail/u/0/#all?compose=new
