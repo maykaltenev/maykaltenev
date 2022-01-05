@@ -24,4 +24,4 @@
 [spotify]: https://open.spotify.com/playlist/0UYCCtsgDxqqAPseyS4QdL
 [instagram]: https://www.instagram.com/michaeltenev/
 [linkedin]: https://www.linkedin.com/in/maykal-tenev-a8729586/
-[gmail]: https://mail.google.com/mail/u/0/#all?compose=new
+[gmail]: https://mailto:michaeltenev@gmail.com
