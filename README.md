@@ -3,7 +3,7 @@
 ###### I'm a Jurist, Chef, Barista, and Developer!
 
 - :rocket: I am doing a Web Development Course at [Digital Career Institute][website]
-- :bulb: I am currently learning JavaScript, HTML, CSS on [Visual Studio Code][vs code]
+- :bulb: I am currently learning JavaScript on [Visual Studio Code][vs code]
 - 🧘 I am doing [Yoga with Adriane][yoga]
 - :book: I am reading on [Blinkist][books]
 - :notes: I [flow with][spotify]
