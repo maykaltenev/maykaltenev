@@ -22,6 +22,5 @@
 [yoga]: https://www.youtube.com/c/yogawithadriene
 [books]: https://www.blinkist.com/en/nc/library/
 [spotify]: https://open.spotify.com/playlist/0UYCCtsgDxqqAPseyS4QdL
-[instagram]: https://www.instagram.com/michaeltenev/
 [linkedin]: https://www.linkedin.com/in/maykal-tenev-a8729586/
 [gmail]: https://mailto:michaeltenev@gmail.com
