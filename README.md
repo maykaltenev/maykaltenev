@@ -1,6 +1,6 @@
 ###### Hello there, I am Maykal Tenev :call_me_hand:
 
-###### I'm a Jurist, Chef, Barista, and Developer!
+###### I'm a Lawyer, Chef, Barista, and Developer!
 
 - :rocket: I am doing a Web Development Course at [Digital Career Institute][website]
 - :bulb: I am currently learning JavaScript on [Visual Studio Code][vs code]
